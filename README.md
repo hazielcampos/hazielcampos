@@ -23,8 +23,8 @@
 ---
 
 ## 🌐 Contact Me
-- 💬 [LinkedIn](https://www.linkedin.com/in/hazielvds/) *(add your real link)*  
-- 📧 Email: contact@hazielcampos.com *(update with your real email)*  
+- 💬 [LinkedIn](https://www.linkedin.com/in/hazielvds/)
+- 📧 Email: contact@hazielcampos.com
 - 💡 Featured projects coming soon...
 
 ---
